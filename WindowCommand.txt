@@ -1,0 +1,10 @@
+
+1.right click your Desktop,choose button 'Git Bash Here'
+
+2.copy your link like url:https://github.com/MZSDSmzm/Test.git
+
+3.write command to window: "git clone https://github.com/MZSDSmzm/Test.git"
+
+4.enter your directory:"cd Test"
+
+5.write command to window: "git add ." -> "git commit -m "news that you will look"" -> "git push -u origin master"
